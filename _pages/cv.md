@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 <!-- TODO: Fill in your education details -->
-* B.S. in Computer Science, North American University, [Year]
+* B.S. in Computer Science, North American University, 2025
 
 Work Experience
 ======

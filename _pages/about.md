@@ -9,19 +9,28 @@ redirect_from:
 
 # Abdul-Salem Beibitkhan
 
-I am an independent researcher and recent graduate of [North American University](https://www.na.edu/) (Houston, TX), currently based in College Station, TX. I am actively applying to CS PhD programs, with a focus on **[research interests TBD]**.
+I am a researcher and recent Computer Science graduate from North American University (Houston, TX), currently based in College Station, TX. My work spans natural language processing, machine learning, and cybersecurity — with a growing interest in data-centric AI and how training strategies shape what models actually learn. I recently published my first paper benchmarking LLM performance on low-resource languages, with ongoing work in network security and post-quantum cryptography.
+
+Beyond NLP, I am drawn to fundamental questions about how intelligent systems build internal representations of the world — including alternatives to next-token prediction paradigms and the role of data quality and curriculum in shaping what models actually learn.
+
+I am currently working as an educator at Harmony Science Academy - Bryan while pursuing research independently, and am planning to apply to CS PhD programs with a focus on machine learning and data-centric AI.
 
 *Also published as: Abdul-Salem Byeibitkhan*
 
 ## Research Interests
 
 <!-- TODO: Fill in your research interests -->
-- TBD
+- Machine Learning & Deep Learning
+- Data-Centric AI & Training Efficiency
+- Speech & Language Processing
+- Information Retrieval
+
+
 
 ## News
 
 <!-- TODO: Add any recent news, paper acceptances, etc. -->
-- **2026** — Submitted paper to ARES 2026
+
 
 ## Contact
 
